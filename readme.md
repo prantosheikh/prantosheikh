@@ -12,8 +12,8 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=shariful10">
-  <img align="right" src="https://komarev.com/ghpvc/?username=shariful10&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=prantosheikh">
+  <img align="right" src="https://komarev.com/ghpvc/?username=prantosheikh&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
@@ -21,7 +21,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/shariful10">Md. Shariful Islam</a></b>
+                <b><a target="_blank" href="https://github.com/prantosheikh">Md. Pranto Sheikh</a></b>
         </samp>
 </h3>
 
@@ -34,10 +34,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/skshariful.islam.18" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Shariful"  />
+  <a href="https://www.facebook.com/prantosheikh123/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Pranto "  />
   </a>
-  <a href="https://developer-shariful.netlify.app/" target="blank">
+  <a href="https://prantosheikh.netlify.app/" target="blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="shariful" />
   </a>
   <a href="https://www.linkedin.com/in/md-shariful-islam-3132721b8/" target="_blank">
